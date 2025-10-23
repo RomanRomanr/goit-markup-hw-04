@@ -447,3 +447,6 @@ margin-bottom: 16px;
 .social_media .link:hover{
   background-color: var(--green);
 }
+.social_media .link:focus{
+  background-color: var(--green);
+}
