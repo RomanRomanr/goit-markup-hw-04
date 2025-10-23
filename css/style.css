@@ -87,7 +87,7 @@ color: var(--navy-blue);
   position: relative;
 }
 /* I need to add styles for the :active::after effect..... I don't know how without :active::after realized this. */
-.nav-link:active::after{
+.nav-link::after{
   content: '';
   display: block;
   left: 0;
